@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <!--Here are some ideas to get you started: -->
 📫 How to reach me: Reach out to me on my [mail](johanmathewjoseph@gmail.com)
 
-![Johan's github stats](https://github-readme-stats.vercel.app/api?username=johanjoseph02&show_icons=true&theme=radical&count_private=true)</br>
+![Johan's github stats](https://github-readme-stats.vercel.app/api?username=johanjoseph02&show_icons=true&theme=radical&count_private=true)<br/><br/>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johanjoseph02&theme=radical)](https://github.com/johanjoseph02/github-readme-stats)
