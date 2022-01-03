@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 📫 How to reach me: Reach out to me on my [mail](johanmathewjoseph@gmail.com)
 
 ![Johan's github stats](https://github-readme-stats.vercel.app/api?username=johanjoseph02&show_icons=true&theme=algolia&count_private=true&hide=contribs)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
