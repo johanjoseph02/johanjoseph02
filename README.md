@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 📫 Reach out to me on my [mail](johanmathewjoseph@gmail.com)
 
 ![Johan's github stats](https://github-readme-stats.vercel.app/api?username=johanjoseph02&show_icons=true&theme=algolia&count_private=true&hide=contribs)<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanjoseph02&layout=compact&theme=algolia&count_private=true)](https://github.com/johanjoseph02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanjoseph02&theme=algolia&count_private=true)](https://github.com/johanjoseph02/github-readme-stats)
