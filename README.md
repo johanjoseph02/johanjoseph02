@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 
 <!--Here are some ideas to get you started: -->
 📫 Reach out to me
-<a href="https://www.linkedin.com/in/naman-jain-35b5261b0" target="_blank">
+
+<a href="https://www.linkedin.com/in/johan-mathew-joseph-8750a8217/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="padding-bottom: 50px;"    />
 </a>
 
-<a href="https://www.instagram.com/naman_jn153/" target="_blank">
+<a href="https://www.instagram.com/_mathew.02_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="padding-bottom: 50px;" />
 </a>
 
-<a href="mailto:namanjn1534@gmail.com" target="_blank">
+<a href="mailto:johanmathewjoseph@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="padding-bottom: 50px;" />
 </a>
 
