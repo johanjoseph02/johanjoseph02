@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there 👋
+### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <!--Here are some ideas to get you started: -->
 📫 Reach out to me on my [mail](johanmathewjoseph@gmail.com)
