@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### Reach out to me on 
+Reach out to me on 
 <a href="mailto:johanmathewjoseph@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="padding-bottom: 50px;" /> 
 </a> 
