@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="padding-bottom: 50px;"    />
 </a>
 
-<a href="https://www.instagram.com/_mathew.02_/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="padding-bottom: 50px;" />
-</a>
-
 <a href="mailto:johanmathewjoseph@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="padding-bottom: 50px;" />
 </a>
