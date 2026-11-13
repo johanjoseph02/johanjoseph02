@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://johanjoseph02.github.io/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/portfolio-light.svg"><img src="assets/portfolio-dark.svg" alt="Portfolio" height="44"></picture></a>&nbsp;&nbsp;
+  <a href="https://johanjoseph.me/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/portfolio-light.svg"><img src="assets/portfolio-dark.svg" alt="Portfolio" height="44"></picture></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/johan-mathew-joseph-8750a8217/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/linkedin-light.svg"><img src="assets/linkedin-dark.svg" alt="LinkedIn" height="44"></picture></a>&nbsp;&nbsp;
   <a href="mailto:johanmathewjoseph@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/email-light.svg"><img src="assets/email-dark.svg" alt="Email johanmathewjoseph@gmail.com" height="44"></picture></a>
 </p>
