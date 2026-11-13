@@ -1,4 +1,4 @@
-# Redraws the stats cards and the contribution snake once a day and publishes them to the
+# Redraws the activity and languages cards once a day and publishes them to the
 # `output` branch (a single commit, replaced each run), so `main` keeps only real changes.
 name: profile
 on:
@@ -23,12 +23,6 @@ jobs:
       - run: node scripts/stats.mjs dist ${{ github.repository_owner }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-light.svg?color_snake=#0969da
-            dist/snake-dark.svg?palette=github-dark&color_snake=#6ea8ff
       - name: Publish to the output branch
         run: |
           cd dist
