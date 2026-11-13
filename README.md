@@ -11,9 +11,9 @@
 <br>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johanjoseph02/johanjoseph02/output/activity-light.svg"><img src="https://raw.githubusercontent.com/johanjoseph02/johanjoseph02/output/activity-dark.svg" alt="Activity over the last 12 months" width="98%"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johanjoseph02/johanjoseph02/output/languages-light.svg"><img src="https://raw.githubusercontent.com/johanjoseph02/johanjoseph02/output/languages-dark.svg" alt="Languages across my public repositories" width="49%"></picture><picture><source media="(prefers-color-scheme: light)" srcset="assets/toolbox-light.svg"><img src="assets/toolbox-dark.svg" alt="Toolbox: Python, Java, C, C++, JavaScript, TypeScript, PyTorch, React, Next.js, Angular, Flutter, Node.js, Express, Spring Boot, GraphQL, PostgreSQL, MySQL, MongoDB, Firebase, Supabase, AWS, Azure" width="49%"></picture>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johanjoseph02/johanjoseph02/output/langs-light.svg"><img src="https://raw.githubusercontent.com/johanjoseph02/johanjoseph02/output/langs-dark.svg" alt="Languages across my public repositories" width="49%"></picture><picture><source media="(prefers-color-scheme: light)" srcset="assets/toolbox-light.svg"><img src="assets/toolbox-dark.svg" alt="Toolbox: Python, Java, C, C++, JavaScript, TypeScript, PyTorch, React, Next.js, Angular, Flutter, Node.js, Express, Spring Boot, GraphQL, PostgreSQL, MySQL, MongoDB, Firebase, Supabase, AWS, Azure" width="49%"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johanjoseph02/johanjoseph02/output/contrib-snake-light.svg"><img src="https://raw.githubusercontent.com/johanjoseph02/johanjoseph02/output/contrib-snake-dark.svg" alt="My contribution graph, eaten by a snake" width="72%"></picture>
 </p>
